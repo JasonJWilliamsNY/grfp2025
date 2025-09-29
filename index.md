@@ -1,8 +1,15 @@
 *September 25, 2025*
 
+----
+**Update (September 29, 2025)**: In response to the NSF solicitation released on Fri 9/26/2025, we have created a new letter and signature campaign prompting NSF to revert changes which unfairly excludes large numbers of students. See our specific concerns and support that effort at [https://laurenkuehne.github.io/grfpChanges/](https://laurenkuehne.github.io/grfpChanges/).
+
+**This form will no longer take comments, but will remain up and public. Please sign on [the new campaign](https://laurenkuehne.github.io/grfpChanges/)**.
 
 ----
-**Update (September 26)**: The GRFP solicitation is out as of Fri 9/26 (See: [https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation))
+<br>
+
+----
+**Update (September 26, 2025)**: The GRFP solicitation is out as of Fri 9/26 (See: [https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation))
 
 Urgent updates:
 
@@ -19,7 +26,6 @@ We find most concerning that second-year students are no longer eligible. Studen
 
 We are also concerned about the bias in awards toward a very few fields of study. Especially given NSF’s intent to focus on early-career students, it is critical to encourage high-potential applicants from all fields of study that NSF supports. See: [Prestigious NSF graduate fellowship tilts toward AI and quantum](https://www.science.org/content/article/prestigious-nsf-graduate-fellowship-tilts-toward-ai-and-quantum ).
 
-**Please do continue to sign and share your stories!**
 
 ----
 <br>
@@ -84,17 +90,21 @@ We call on decision-makers to provide clarity and extend flexibility so that wha
 
 ## Take action
 
- - [Sign and comment](https://jasonjwilliamsny.github.io/grfp2025/#sign-and-comment)
- - [Share your story](https://jasonjwilliamsny.github.io/grfp2025/#share-your-story)
+----
+**Update (September 29, 2025)**: In response to the NSF solicitation released on Fri 9/26/2025, we have created a new letter and signature campaign prompting NSF to revert changes which unfairly excludes large numbers of students. See our specific concerns and support that effort at [https://laurenkuehne.github.io/grfpChanges/](https://laurenkuehne.github.io/grfpChanges/).
+
+**This form will no longer take comments, but will remain up and public. Please sign on [the new campaign](https://laurenkuehne.github.io/grfpChanges/)**.
+
+----
+
  - [Join the mailing list](https://jasonjwilliamsny.github.io/grfp2025/#join-the-mailing-list)
 
 ### Sign the letter and comment
 
-If you agree with the sentiment of this letter, please sign and consider leaving a comment about the importance of the GRFP and impacts of the current uncertainty on you.
+**This form will no longer take comments, but will remain up and public. Please sign on [the new campaign](https://laurenkuehne.github.io/grfpChanges/)**. The more than 400 comments collected will remain posted and are a valuable record of the impact of the changes to this program.  
 
 <!-- Bravenet Embedded Service Code -->
 <script src="https://apps.bravenet.com/go.js?service=guestbook;id=1;usernum=2876504612" type="text/javascript" charset="utf-8"></script>
-
 
 ### Share your story
 
